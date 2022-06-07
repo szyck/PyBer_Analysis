@@ -6,3 +6,4 @@ Through the creation of the data frame in ______, we gained several insights on 
 The line graph created by the script shows total fare over time for each city type with a bin size of 1 week. It tells us that urban ride sharing consistently yields the highest total fares, with suburban consistently being the second, and rural being in last. Also, warmer months could possibly favor suburban cities as far as higher total fares go.
 ![Line Graph](analysis/ChallengeLine.png)
 ## Summary
+From the analysis, there seems to be a shortage of drivers in rural areas and an overabundance of drivers in urban areas. ________ shows that there were less rides in urban areas than there were drivers. There were also many less drivers than rides in rural areas. I would recommend a shift in personell from urban to rural areas based on this.
